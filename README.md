@@ -6,7 +6,7 @@ Example project on how to connect your nostr and github accounts together.
 # Steps to produce [nostr-name]@[github-name].github.io/[repo]
 
 * fork https://github.com/nostrize/github-connect
-* edit .well-known/nostr.json (change with your nostr username you want to use and pubkey accordingly)
+* edit _site/.well-known/nostr.json (change with your nostr username you want to use and pubkey accordingly)
 * Go to Settings -> Pages -> Set Source: Github actions
 * Go to Actions -> Enable workflows if necessary
 * Go to Workflows -> Deploy static site to Pages -> Run workflow
