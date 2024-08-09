@@ -4,7 +4,8 @@
   },
   "nostrize-settings": {
     "97ac27d1b3a9fc61060a58d4380bb3812766f27290f977021935c320619643b7": {
-      "type": "user"
+      "type": "organization",
+      "emoji": "🌐"
     }
   }
 }
