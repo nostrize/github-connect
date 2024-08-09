@@ -2,10 +2,11 @@
   "names": {
     "nostrize": "97ac27d1b3a9fc61060a58d4380bb3812766f27290f977021935c320619643b7"
   },
-  "nostrize-settings": {
+  "nostrize-extension": {
     "97ac27d1b3a9fc61060a58d4380bb3812766f27290f977021935c320619643b7": {
       "type": "organization",
-      "emoji": "🌐"
+      "emoji": "🌐",
+      "icon": "https://nostrize.github.io/github-connect/logo.svg"
     }
   }
 }
